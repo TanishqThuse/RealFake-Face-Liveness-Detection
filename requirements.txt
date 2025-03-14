@@ -1,0 +1,9 @@
+streamlit
+click
+opencv-python
+cvzone
+numpy
+ultralytics
+tensorflow
+onnx
+onnxruntime
